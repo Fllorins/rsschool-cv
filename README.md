@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://Fllorins.github.io/rsschool-cv/cv
+## https://Fllorins.github.io/rsschool-cv/
